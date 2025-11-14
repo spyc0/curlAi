@@ -181,5 +181,4 @@ echo " Tor Control    : 127.0.0.1:9551"
 echo " Config file    : $ETC/proxy.conf"
 echo "-----------------------------------------------"
 echo "[✓] Installation complete."
-EOF
-
+# EOF
