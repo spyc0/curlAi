@@ -89,7 +89,7 @@ echo " Tor Control    : 127.0.0.1:9551"
 echo " Config file    : $ETC/proxy.conf"
 echo "-----------------------------------------------"
 echo "[✓] Installation complete."
-EOF
+
 #!/usr/bin/env bash
 # ======================================================
 #  CurlAI — Private Tor-Enabled Mini-AI Core Installer
